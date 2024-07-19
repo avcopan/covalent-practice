@@ -1,0 +1,80 @@
+[I 2024-07-19 16:31:04.020 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-07-19 16:31:04.025 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-07-19 16:31:04.030 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-07-19 16:31:04.036 ServerApp] notebook | extension was successfully linked.
+[I 2024-07-19 16:31:04.270 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-07-19 16:31:04.291 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-07-19 16:31:04.293 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-07-19 16:31:04.294 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-07-19 16:31:04.295 LabApp] JupyterLab extension loaded from /home/avcopan/code/other/covalent-practice/.pixi/envs/default/lib/python3.10/site-packages/jupyterlab
+[I 2024-07-19 16:31:04.295 LabApp] JupyterLab application directory is /home/avcopan/code/other/covalent-practice/.pixi/envs/default/share/jupyter/lab
+[I 2024-07-19 16:31:04.296 LabApp] Extension Manager is 'pypi'.
+[I 2024-07-19 16:31:04.311 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-07-19 16:31:04.316 ServerApp] notebook | extension was successfully loaded.
+[I 2024-07-19 16:31:04.316 ServerApp] Serving notebooks from local directory: /home/avcopan/code/other/covalent-practice
+[I 2024-07-19 16:31:04.317 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-07-19 16:31:04.317 ServerApp] http://localhost:8888/tree?token=d3a01c8151ae6adf159e220f163993bcebd1ee258e712110
+[I 2024-07-19 16:31:04.317 ServerApp]     http://127.0.0.1:8888/tree?token=d3a01c8151ae6adf159e220f163993bcebd1ee258e712110
+[I 2024-07-19 16:31:04.317 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-07-19 16:31:05.056 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/avcopan/.local/share/jupyter/runtime/jpserver-216702-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=d3a01c8151ae6adf159e220f163993bcebd1ee258e712110
+        http://127.0.0.1:8888/tree?token=d3a01c8151ae6adf159e220f163993bcebd1ee258e712110
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+[I 2024-07-19 16:31:05.692 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+read failed 9: Bad file descriptor
+[I 2024-07-19 16:31:20.359 ServerApp] Kernel started: 79195715-b8d6-49df-abea-fcac5289acf6
+[I 2024-07-19 16:31:20.996 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:31:21.010 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:31:21.024 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:39:57.232 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:40:15.750 ServerApp] Creating new notebook in 
+[I 2024-07-19 16:40:15.919 ServerApp] Saving file at /Untitled.ipynb
+[I 2024-07-19 16:40:15.951 ServerApp] Kernel started: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:40:16.983 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:40:18.075 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:40:18.086 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:40:18.961 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:41:22.190 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:41:22.206 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:41:59.537 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:41:59.560 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:42:00.644 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:42:23.996 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 16:42:49.774 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:42:49.791 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:44:24.064 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 16:44:39.433 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:44:39.451 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:45:24.932 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:45:24.950 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:46:24.122 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 16:46:54.559 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:46:54.577 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:48:24.184 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 16:48:41.882 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:48:41.901 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:50:24.252 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 16:51:35.289 ServerApp] Creating new notebook in 
+[I 2024-07-19 16:51:35.485 ServerApp] Saving file at /Untitled.ipynb
+[I 2024-07-19 16:51:35.519 ServerApp] Kernel started: d062dda0-c552-4753-a6d1-2040d5ca95b8
+[I 2024-07-19 16:51:36.549 ServerApp] Connecting to kernel d062dda0-c552-4753-a6d1-2040d5ca95b8.
+[I 2024-07-19 16:51:37.540 ServerApp] Connecting to kernel 79195715-b8d6-49df-abea-fcac5289acf6.
+[I 2024-07-19 16:51:37.557 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:51:37.595 ServerApp] Connecting to kernel d062dda0-c552-4753-a6d1-2040d5ca95b8.
+[I 2024-07-19 16:51:38.547 ServerApp] Connecting to kernel d062dda0-c552-4753-a6d1-2040d5ca95b8.
+[I 2024-07-19 16:52:02.923 ServerApp] Kernel restarted: d062dda0-c552-4753-a6d1-2040d5ca95b8
+[I 2024-07-19 16:52:02.941 ServerApp] Connecting to kernel d062dda0-c552-4753-a6d1-2040d5ca95b8.
+[I 2024-07-19 16:53:45.173 ServerApp] Saving file at /test2.ipynb
+[I 2024-07-19 16:56:25.031 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 16:56:58.709 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:56:58.726 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:58:18.556 ServerApp] Kernel restarted: 87642e0f-6094-4cc5-a087-b4185fbdd74b
+[I 2024-07-19 16:58:18.573 ServerApp] Connecting to kernel 87642e0f-6094-4cc5-a087-b4185fbdd74b.
+[I 2024-07-19 16:58:25.105 ServerApp] Saving file at /test_shell.ipynb
+[I 2024-07-19 17:09:03.151 ServerApp] Starting buffering for 79195715-b8d6-49df-abea-fcac5289acf6:c89521c1-11ff-41c5-a2dd-d54ca6908c8d
