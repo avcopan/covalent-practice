@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add a short description here"
 authors = [{name = "Andreas Copan", email = "avcopan@gmail.com"}]
 requires-python = ">= 3.10"
-dependencies = []
+dependencies = ["jupyter>=1.0.0,<2", "covalent-slurm-plugin>=0.18.0,<0.19", "websockets>=12.0,<13", "watchfiles>=0.22.0,<0.23", "uvloop>=0.19.0,<0.20", "python-dotenv>=1.0.1,<2", "httptools>=0.6.1,<0.7"]
 
 [build-system]
 requires = ["setuptools"]
@@ -17,8 +17,10 @@ platforms = ["linux-64"]
 [tool.pixi.pypi-dependencies]
 covalent-practice = { path = ".", editable = true }
 
+[tool.pixi.activation]
+env = { COVALENT_CONFIG_DIR = "${PIXI_PROJECT_ROOT}/.config"}
+
 [tool.pixi.tasks]
 
 [tool.pixi.dependencies]
-covalent = ">=0.232.0.post1,<0.232.1"
-jupyter = ">=1.0.0,<1.1"
+covalent = ">=0.232.0.post1,<0.233"
